@@ -1,3 +1,10 @@
 body{
     background-color: #FFFFFF;
 }
+.trade{
+  margin-left: 150px;
+  margin-top: 10px;
+}
+.button{
+    background-color: #03A413;
+}
