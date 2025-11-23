@@ -1,2 +1,1 @@
-# TradeG
- 
+TradeG
